@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <RootNamespace>LabMiniChatGPT_A7</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="FakeMathOps\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\lab-5-mini-chatgpt-a4\Lib.MathCore.csproj" />
+    </ItemGroup>
+
+</Project>

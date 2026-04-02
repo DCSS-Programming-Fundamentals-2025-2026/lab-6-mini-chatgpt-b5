@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabMiniChatGPT-A7", "LabMiniChatGPT-A7\LabMiniChatGPT-A7.csproj", "{E5081C24-7F12-4DC5-AF0A-04A9AD9BD761}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A7.Tests", "A7.Tests\A7.Tests.csproj", "{B80F56FE-3A11-4A72-9D88-31639E4B7AAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib.MathCore", "lab-5-mini-chatgpt-a4\Lib.MathCore.csproj", "{C70AB1A6-7919-4BE5-BE4E-050BF0DCF970}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5081C24-7F12-4DC5-AF0A-04A9AD9BD761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5081C24-7F12-4DC5-AF0A-04A9AD9BD761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5081C24-7F12-4DC5-AF0A-04A9AD9BD761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5081C24-7F12-4DC5-AF0A-04A9AD9BD761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B80F56FE-3A11-4A72-9D88-31639E4B7AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B80F56FE-3A11-4A72-9D88-31639E4B7AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B80F56FE-3A11-4A72-9D88-31639E4B7AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B80F56FE-3A11-4A72-9D88-31639E4B7AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C70AB1A6-7919-4BE5-BE4E-050BF0DCF970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C70AB1A6-7919-4BE5-BE4E-050BF0DCF970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C70AB1A6-7919-4BE5-BE4E-050BF0DCF970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C70AB1A6-7919-4BE5-BE4E-050BF0DCF970}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
