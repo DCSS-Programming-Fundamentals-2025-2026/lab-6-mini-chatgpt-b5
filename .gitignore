@@ -1,0 +1,74 @@
+## .NET / Visual Studio
+
+# macOS system files
+.DS_Store
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio cache
+.vs/
+
+# Logs
+*.log
+
+# Auto-generated files
+Generated\ Files/
+
+# Test results
+[Tt]est[Rr]esult*/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+# .NET SDK artifacts
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Publish output
+publish/
+*.publish.xml
+*.pubxml
+
+# Code coverage
+coverage*.json
+coverage*.xml
+
+# Build logs
+*.binlog
+
+# Temporary files
+*.tmp
+
+# Debug symbols and intermediates
+*.pdb
+*.obj
+*.cache
+*.ilk
+*.iobj
+*.ipdb
+
+# JetBrains Rider / ReSharper
+.idea/
+_ReSharper*/
+*.DotSettings.user
+
+# VS Code (keep config)
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/tasks.json
